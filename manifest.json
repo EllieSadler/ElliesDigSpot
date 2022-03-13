@@ -1,0 +1,12 @@
+{
+   "Name": "Ellie's Dig Spot",
+   "Author": "EllieBellaLuna",
+   "Version": "1.0.0",
+   "Description": "Replaces the dig spot with an \"X\" marks the spot.",
+   "UniqueID": "EllieBellaLuna.DigSpot",
+   "MinimumApiVersion": "3.0.0",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
